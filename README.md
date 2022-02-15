@@ -19,7 +19,7 @@
 [Learning tmux terminal multiplexer, a hacker's command line starter](https://404answernotfound.eu/blog/learning-tmux-terminal-multiplexer-a-hackers-command-line-starter)  
 [Developer's Journey, a technical interview paradox](https://404answernotfound.eu/blog/developers-journey-a-technical-interview-paradox)  
 [The Scrooge's path to Github API for data storage](https://404answernotfound.eu/blog/the-scrooges-path-to-github-api-for-data-storage)  
-[An adventure to get started with the Unix Shell, part 1](https://404answernotfound.eu/blog/10 simple commands to get started with Unix shell)  
+[An adventure to get started with the Unix Shell, part 1](https://404answernotfound.eu/blog/10%20simple%20commands%20to%20get%20started%20with%20Unix%20shell)  
 [How to manage multiple github repositories with one or more git usernames](https://404answernotfound.eu/blog/change-git-user)  
 
 ## Usage
