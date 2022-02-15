@@ -1,4 +1,9 @@
-<h1 align="center">Welcome to 404answernotfound - Blog Articles Github List 👋</h1>
+<h1 align="center">Welcome to 404answernotfound <br/> Blog Articles Github List 👋</h1>
+
+<a href="404answernotfound.eu" target="_blank">
+    <img alt="404answernotfound logo" src="https://404answernotfound.eu/_next/image?url=%2Fstatic%2Fimages%2F404answernotfounddarktheme.png&w=256&q=75
+" />
+  </a>
 <p>
   <a href="https://twitter.com/404answnotfound" target="_blank">
     <img alt="Twitter: 404answnotfound" src="https://img.shields.io/twitter/follow/404answnotfound.svg?style=social" />
@@ -7,13 +12,19 @@
 
 > A collection of articles to be read on 404answernotfound blog
 
-### 🏠 [Homepage](404answernotfound.eu)
+## 🏠 [Homepage](404answernotfound.eu)
+
+## Article List (from latest to oldest)
+[Multicursor in VSCode, a productivity boost](https://404answernotfound.eu/blog/multicursor-in-vscode-a-productivity-boost)
+[Learning tmux terminal multiplexer, a hacker's command line starter](https://404answernotfound.eu/blog/learning-tmux-terminal-multiplexer-a-hackers-command-line-starter)
+[Developer's Journey, a technical interview paradox](https://404answernotfound.eu/blog/developers-journey-a-technical-interview-paradox)
+[The Scrooge's path to Github API for data storage](https://404answernotfound.eu/blog/the-scrooges-path-to-github-api-for-data-storage)
+[An adventure to get started with the Unix Shell, part 1](https://404answernotfound.eu/blog/10 simple commands to get started with Unix shell)
+[How to manage multiple github repositories with one or more git usernames](https://404answernotfound.eu/blog/change-git-user)
 
 ## Usage
 
-```sh
 Just click on an article to be redirected to the blog
-```
 
 ## Author
 
