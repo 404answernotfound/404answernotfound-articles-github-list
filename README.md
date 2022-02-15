@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to 404answernotfound <br/> Blog Articles Github List 👋</h1>
 
 <a href="404answernotfound.eu" target="_blank">
-    <img alt="404answernotfound logo" src="https://404answernotfound.eu/_next/image?url=%2Fstatic%2Fimages%2F404answernotfounddarktheme.png&w=256&q=75
+    <img alt="404answernotfound logo" src="https://camo.githubusercontent.com/8ed054ee6fae0a874adc186d180b67b61656cd7a06ad0a28f2e0e54e5ee4807c/68747470733a2f2f343034616e737765726e6f74666f756e642e65752f5f6e6578742f696d6167653f75726c3d253246737461746963253246696d61676573253246343034616e737765726e6f74666f756e646461726b7468656d652e706e6726773d31323826713d3735
 " />
   </a>
 <p>
