@@ -16,6 +16,7 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
+[Javascript Projects for beginners, age 9 to 99](https://404answernotfound.eu/blog/javascript-projects-for-beginners-age-9-to-99)
 [Multicursor in VSCode, a productivity boost](https://404answernotfound.eu/blog/multicursor-in-vscode-a-productivity-boost)  
 [Learning tmux terminal multiplexer, a hacker's command line starter](https://404answernotfound.eu/blog/learning-tmux-terminal-multiplexer-a-hackers-command-line-starter)  
 [Developer's Journey, a technical interview paradox](https://404answernotfound.eu/blog/developers-journey-a-technical-interview-paradox)  
@@ -23,6 +24,8 @@
 [An adventure to get started with the Unix Shell, part 1](https://404answernotfound.eu/blog/10%20simple%20commands%20to%20get%20started%20with%20Unix%20shell)  
 [How to manage multiple github repositories with one or more git usernames](https://404answernotfound.eu/blog/change-git-user)  
 
+## Hashnode articles (from latest to oldest)
+[Building a blog to share your #100daysofcode](https://404answnotfound.hashnode.dev/building-a-blog-to-share-your-100daysofcode)
 ## Usage
 
 Just click on an article to be redirected to the blog
