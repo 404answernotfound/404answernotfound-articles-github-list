@@ -31,23 +31,6 @@
 ➢ [Don't let fear take away the fun. An Impostor Syndrome rant from 2022](https://404answernotfound.eu/blog/dont-let-fear-take-away-the-fun-an-impostor-syndrom-analysis-from-2022)
 
 ➢ [How to learn Javascript if you've never programmed before](https://404answernotfound.eu/blog/how-to-learn-javascript-if-youve-never-programmed-before)
-
-➢ [A primer on Javascript functions and where to find them](https://404answernotfound.eu/blog/a-primer-on-javascript-functions-and-where-to-find-them)
-
-➢ [Javascript Projects for beginners, age 9 to 99](https://404answernotfound.eu/blog/javascript-projects-for-beginners-age-9-to-99)
-
-➢ [Multicursor in VSCode, a productivity boost](https://404answernotfound.eu/blog/multicursor-in-vscode-a-productivity-boost)
-
-➢ [Learning tmux terminal multiplexer, a hacker's command line starter](https://404answernotfound.eu/blog/learning-tmux-terminal-multiplexer-a-hackers-command-line-starter)
-
-➢ [Developer's Journey, a technical interview paradox](https://404answernotfound.eu/blog/developers-journey-a-technical-interview-paradox)
-
-➢ [The Scrooge's path to Github API for data storage](https://404answernotfound.eu/blog/the-scrooges-path-to-github-api-for-data-storage)
-
-➢ [An adventure to get started with the Unix Shell, part 1](https://404answernotfound.eu/blog/10 simple commands to get started with Unix shell)
-
-➢ [How to manage multiple github repositories with one or more git usernames](https://404answernotfound.eu/blog/change-git-user)
-
 ---<br/><br/><br/><br/>
 
 ## Hashnode articles (from latest to oldest)
