@@ -16,39 +16,39 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [«Someone stole my Startup idea!» and other legendary monsters](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fsomeone-stole-my-startup-idea-and-other-legendary-monsters)
+---<br/>➢ [«Someone stole my Startup idea!» and other legendary monsters](https://404answernotfound.eu/blog/someone-stole-my-startup-idea-and-other-legendary-monsters)
 
-➢ [How to copy paste with Javascript, an easy guide](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fhow-to-copy-paste-with-javascript-an-easy-guide)
+➢ [How to copy paste with Javascript, an easy guide](https://404answernotfound.eu/blog/how-to-copy-paste-with-javascript-an-easy-guide)
 
-➢ [What is a MVP and how to avoid overengineering](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fwhat-is-an-mvp-and-how-to-avoid-overengineering)
+➢ [What is a MVP and how to avoid overengineering](https://404answernotfound.eu/blog/what-is-an-mvp-and-how-to-avoid-overengineering)
 
-➢ [What's the best OS for Front End Devs?](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fwhats-the-best-os-for-web-developers)
+➢ [What's the best OS for Front End Devs?](https://404answernotfound.eu/blog/whats-the-best-os-for-web-developers)
 
-➢ [Git for very newbie developers](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fgit-for-very-newbie-developers)
+➢ [Git for very newbie developers](https://404answernotfound.eu/blog/git-for-very-newbie-developers)
 
-➢ [What can you do with Javascript? A lot!](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fwhat-can-you-do-with-javascript-a-lot)
+➢ [What can you do with Javascript? A lot!](https://404answernotfound.eu/blog/what-can-you-do-with-javascript-a-lot)
 
-➢ [Don't let fear take away the fun. An Impostor Syndrome rant from 2022](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fdont-let-fear-take-away-the-fun-an-impostor-syndrom-analysis-from-2022)
+➢ [Don't let fear take away the fun. An Impostor Syndrome rant from 2022](https://404answernotfound.eu/blog/dont-let-fear-take-away-the-fun-an-impostor-syndrom-analysis-from-2022)
 
-➢ [How to learn Javascript if you've never programmed before](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fhow-to-learn-javascript-if-youve-never-programmed-before)
+➢ [How to learn Javascript if you've never programmed before](https://404answernotfound.eu/blog/how-to-learn-javascript-if-youve-never-programmed-before)
 
-➢ [A primer on Javascript functions and where to find them](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fa-primer-on-javascript-functions-and-where-to-find-them)
+➢ [A primer on Javascript functions and where to find them](https://404answernotfound.eu/blog/a-primer-on-javascript-functions-and-where-to-find-them)
 
-➢ [Javascript Projects for beginners, age 9 to 99](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fjavascript-projects-for-beginners-age-9-to-99)
+➢ [Javascript Projects for beginners, age 9 to 99](https://404answernotfound.eu/blog/javascript-projects-for-beginners-age-9-to-99)
 
-➢ [Multicursor in VSCode, a productivity boost](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fmulticursor-in-vscode-a-productivity-boost)
+➢ [Multicursor in VSCode, a productivity boost](https://404answernotfound.eu/blog/multicursor-in-vscode-a-productivity-boost)
 
-➢ [Learning tmux terminal multiplexer, a hacker's command line starter](https%3A%2F%2F404answernotfound.eu%2Fblog%2Flearning-tmux-terminal-multiplexer-a-hackers-command-line-starter)
+➢ [Learning tmux terminal multiplexer, a hacker's command line starter](https://404answernotfound.eu/blog/learning-tmux-terminal-multiplexer-a-hackers-command-line-starter)
 
-➢ [Developer's Journey, a technical interview paradox](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fdevelopers-journey-a-technical-interview-paradox)
+➢ [Developer's Journey, a technical interview paradox](https://404answernotfound.eu/blog/developers-journey-a-technical-interview-paradox)
 
-➢ [The Scrooge's path to Github API for data storage](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fthe-scrooges-path-to-github-api-for-data-storage)
+➢ [The Scrooge's path to Github API for data storage](https://404answernotfound.eu/blog/the-scrooges-path-to-github-api-for-data-storage)
 
-➢ [An adventure to get started with the Unix Shell, part 1](https%3A%2F%2F404answernotfound.eu%2Fblog%2F10%20simple%20commands%20to%20get%20started%20with%20Unix%20shell)
+➢ [An adventure to get started with the Unix Shell, part 1](https://404answernotfound.eu/blog/10%20simple%20commands%20to%20get%20started%20with%20Unix%20shell)
 
-➢ [How to manage multiple github repositories with one or more git usernames](https%3A%2F%2F404answernotfound.eu%2Fblog%2Fchange-git-user)
+➢ [How to manage multiple github repositories with one or more git usernames](https://404answernotfound.eu/blog/change-git-user)
 
----<br/>
+---<br/><br/>
 
 ## Hashnode articles (from latest to oldest)
 [Building a blog to share your #100daysofcode](https://404answnotfound.hashnode.dev/building-a-blog-to-share-your-100daysofcode)
