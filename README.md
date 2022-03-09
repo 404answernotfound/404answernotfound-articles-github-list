@@ -53,11 +53,11 @@
 ---<br/><br/><br/><br/>
 
 ## Hashnode articles (from latest to oldest)
-[The difference between `git pull` and `git fetch`](https://404answnotfound.hashnode.dev/the-difference-between-git-pull-and-git-fetch)
-[Building a blog to share your #100daysofcode](https://404answnotfound.hashnode.dev/building-a-blog-to-share-your-100daysofcode)
+[The difference between `git pull` and `git fetch`](https://404answnotfound.hashnode.dev/the-difference-between-git-pull-and-git-fetch)  
+[Building a blog to share your #100daysofcode](https://404answnotfound.hashnode.dev/building-a-blog-to-share-your-100daysofcode)  
 
 ## DEV.to articles (from latest to oldest)
-[The difference between `git pull` and `git fetch` - canonical on hashnode](https://dev.to/404answernotfound/git-pull-and-git-fetch-a-subtle-difference-1g45)
+[The difference between `git pull` and `git fetch` - canonical on hashnode](https://dev.to/404answernotfound/git-pull-and-git-fetch-a-subtle-difference-1g45)  
 
 ## Usage
 
