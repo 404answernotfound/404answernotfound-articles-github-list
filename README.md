@@ -16,7 +16,9 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [«Someone stole my Startup idea!» and other legendary monsters](https://404answernotfound.eu/blog/someone-stole-my-startup-idea-and-other-legendary-monsters)
+---<br/>➢ [How to stay productive with Gmail](https://404answernotfound.eu/blog/how-to-stay-productive-with-gmail)
+
+➢ [«Someone stole my Startup idea!» and other legendary monsters](https://404answernotfound.eu/blog/someone-stole-my-startup-idea-and-other-legendary-monsters)
 
 ➢ [How to copy paste with Javascript, an easy guide](https://404answernotfound.eu/blog/how-to-copy-paste-with-javascript-an-easy-guide)
 
@@ -48,7 +50,7 @@
 
 ➢ [How to manage multiple github repositories with one or more git usernames](https://404answernotfound.eu/blog/change-git-user)
 
----<br/><br/>
+---<br/><br/><br/>
 
 ## Hashnode articles (from latest to oldest)
 [Building a blog to share your #100daysofcode](https://404answnotfound.hashnode.dev/building-a-blog-to-share-your-100daysofcode)
