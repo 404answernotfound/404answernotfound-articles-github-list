@@ -16,7 +16,9 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [Fake data makes for great programmers. A first timer approach to Mockaroo](https://404answernotfound.eu/blog/fake-data-makes-for-great-programmer-a-first-timer-approach-to-mockaroo)
+---<br/>➢ [You finished your Bootcamp. Now what?](https://404answernotfound.eu/blog/you-finished-your-bootcamp-now-what)
+
+➢ [Fake data makes for great programmers. A first timer approach to Mockaroo](https://404answernotfound.eu/blog/fake-data-makes-for-great-programmer-a-first-timer-approach-to-mockaroo)
 
 ➢ [How to stay productive with Gmail](https://404answernotfound.eu/blog/how-to-stay-productive-with-gmail)
 
@@ -52,7 +54,7 @@
 
 ➢ [How to manage multiple github repositories with one or more git usernames](https://404answernotfound.eu/blog/change-git-user)
 
----<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+---<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Hashnode articles (from latest to oldest)
 [The difference between `git pull` and `git fetch`](https://404answnotfound.hashnode.dev/the-difference-between-git-pull-and-git-fetch)  
