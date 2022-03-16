@@ -16,7 +16,9 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [You finished your Bootcamp. Now what?](https://404answernotfound.eu/blog/you-finished-your-bootcamp-now-what)
+---<br/>➢ [How to not pay for any services, the subtle art of penny scouting](https://404answernotfound.eu/blog/how-to-not-pay-for-any-services-the-subtle-art-of-penny-scouting)
+
+➢ [You finished your Bootcamp. Now what?](https://404answernotfound.eu/blog/you-finished-your-bootcamp-now-what)
 
 ➢ [Fake data makes for great programmers. A first timer approach to Mockaroo](https://404answernotfound.eu/blog/fake-data-makes-for-great-programmer-a-first-timer-approach-to-mockaroo)
 
