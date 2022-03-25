@@ -16,7 +16,9 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [How to not pay for any services, the subtle art of penny scouting](https://404answernotfound.eu/blog/how-to-not-pay-for-any-services-the-subtle-art-of-penny-scouting)
+---<br/>➢ [How to face code adversities, a Senior perspective](https://404answernotfound.eu/blog/how-to-face-code-adversities-a-senior-software-engineer-perspective)
+
+➢ [How to not pay for any services, the subtle art of penny scouting](https://404answernotfound.eu/blog/how-to-not-pay-for-any-services-the-subtle-art-of-penny-scouting)
 
 ➢ [You finished your Bootcamp. Now what?](https://404answernotfound.eu/blog/you-finished-your-bootcamp-now-what)
 
