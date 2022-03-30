@@ -16,7 +16,15 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [Fake data makes for great programmers. A first timer approach to Mockaroo](https://404answernotfound.eu/blog/fake-data-makes-for-great-programmer-a-first-timer-approach-to-mockaroo)
+---<br/>➢ [The fancy N+1 problem, a tutorial to f**k up your code](https://404answernotfound.eu/blog/the-fancy-n1-problem-a-tutorial-to-fk-up-your-code)
+
+➢ [How to face code adversities, a Senior perspective](https://404answernotfound.eu/blog/how-to-face-code-adversities-a-senior-software-engineer-perspective)
+
+➢ [How to not pay for any services, the subtle art of penny scouting](https://404answernotfound.eu/blog/how-to-not-pay-for-any-services-the-subtle-art-of-penny-scouting)
+
+➢ [You finished your Bootcamp. Now what?](https://404answernotfound.eu/blog/you-finished-your-bootcamp-now-what)
+
+➢ [Fake data makes for great programmers. A first timer approach to Mockaroo](https://404answernotfound.eu/blog/fake-data-makes-for-great-programmer-a-first-timer-approach-to-mockaroo)
 
 ➢ [How to stay productive with Gmail](https://404answernotfound.eu/blog/how-to-stay-productive-with-gmail)
 
