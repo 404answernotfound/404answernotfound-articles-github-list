@@ -16,7 +16,9 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [The fancy N+1 problem, a tutorial to f**k up your code](https://404answernotfound.eu/blog/the-fancy-n1-problem-a-tutorial-to-fk-up-your-code)
+---<br/>➢ [What is npx, the Node Package Runner(x)](https://404answernotfound.eu/blog/what-is-npx-the-node-package-runnerx)
+
+➢ [The fancy N+1 problem, a tutorial to f**k up your code](https://404answernotfound.eu/blog/the-fancy-n1-problem-a-tutorial-to-fk-up-your-code)
 
 ➢ [How to face code adversities, a Senior perspective](https://404answernotfound.eu/blog/how-to-face-code-adversities-a-senior-software-engineer-perspective)
 
