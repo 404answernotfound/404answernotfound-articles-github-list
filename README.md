@@ -74,7 +74,7 @@
 
 ## DEV.to articles (from latest to oldest)
 [The difference between `git pull` and `git fetch` - canonical on hashnode](https://dev.to/404answernotfound/git-pull-and-git-fetch-a-subtle-difference-1g45)  
-
+[You finished your Bootcamp. Now what?](https://dev.to/404answernotfound/you-finished-your-bootcamp-now-what-4963)  
 ## Usage
 
 Just click on an article to be redirected to the blog
