@@ -16,7 +16,9 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [The difference between Nodejs module.exports and exports, a simple technical explanation for 2022](https://404answernotfound.eu/blog/the-difference-between-nodejs-moduleexports-and-exports-a-simple-technical-explanation-for-2022)
+---<br/>➢ [No arguments in Javascript Arrow Functions, why?!](https://404answernotfound.eu/blog/no-arguments-in-javascript-arrow-functions-why)
+
+➢ [The difference between Nodejs module.exports and exports, a simple technical explanation for 2022](https://404answernotfound.eu/blog/the-difference-between-nodejs-moduleexports-and-exports-a-simple-technical-explanation-for-2022)
 
 ➢ [What is npx, the Node Package Runner(x)](https://404answernotfound.eu/blog/what-is-npx-the-node-package-runnerx)
 
