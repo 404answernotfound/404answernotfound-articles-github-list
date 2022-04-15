@@ -76,13 +76,13 @@
 
 ## DEV.to articles (from latest to oldest)
 [You finished your Bootcamp. Now what?](https://dev.to/404answernotfound/you-finished-your-bootcamp-now-what-4963)  
-[Fake data makes for great programmers. A first timer approach to Mockaroo](https://dev.to/404answernotfound/fake-data-makes-for-great-programmers-a-first-timer-approach-to-mockaroo-m7b)
+[Fake data makes for great programmers. A first timer approach to Mockaroo](https://dev.to/404answernotfound/fake-data-makes-for-great-programmers-a-first-timer-approach-to-mockaroo-m7b)  
 [The difference between `git pull` and `git fetch` - canonical on hashnode](https://dev.to/404answernotfound/git-pull-and-git-fetch-a-subtle-difference-1g45)  
 
 ## ICTPower (from latest to oldest, in Italian)
-[Come utilizzare Microsoft Graph con React e la libreria Microsoft Graph Toolkit. Età 9-99. ](https://www.ictpower.it/guide/come-utilizzare-microsoft-graph-con-react-e-la-libreria-microsoft-graph-toolkit-eta-9-99.htm)
-[Come utilizzare Microsoft Graph se la sola idea di aprire una console vi riempie di gioia. Età 9-99. ](https://www.ictpower.it/cloud/come-utilizzare-microsoft-graph-se-la-sola-idea-di-aprire-una-console-vi-riempie-di-gioia-eta-9-99.htm)
-[Microsoft Graph, introduzione leggerissima ad un ecosistema gargantuesco. Età 9-99. ](https://www.ictpower.it/cloud/microsoft-graph-introduzione-leggerissima-ad-un-ecosistema-gargantuesco-eta-9-99.htm)
+[Come utilizzare Microsoft Graph con React e la libreria Microsoft Graph Toolkit. Età 9-99. ](https://www.ictpower.it/guide/come-utilizzare-microsoft-graph-con-react-e-la-libreria-microsoft-graph-toolkit-eta-9-99.htm)  
+[Come utilizzare Microsoft Graph se la sola idea di aprire una console vi riempie di gioia. Età 9-99. ](https://www.ictpower.it/cloud/come-utilizzare-microsoft-graph-se-la-sola-idea-di-aprire-una-console-vi-riempie-di-gioia-eta-9-99.htm)  
+[Microsoft Graph, introduzione leggerissima ad un ecosistema gargantuesco. Età 9-99. ](https://www.ictpower.it/cloud/microsoft-graph-introduzione-leggerissima-ad-un-ecosistema-gargantuesco-eta-9-99.htm)  
 
 ## Usage
 
