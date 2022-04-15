@@ -16,7 +16,9 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [No arguments in Javascript Arrow Functions, why?!](https://404answernotfound.eu/blog/no-arguments-in-javascript-arrow-functions-why)
+---<br/>➢ [How I built a NPM Package (and why you should too!)](https://404answernotfound.eu/blog/how-i-build-a-npm-package-and-why-you-should-too)
+
+➢ [No arguments in Javascript Arrow Functions, why?!](https://404answernotfound.eu/blog/no-arguments-in-javascript-arrow-functions-why)
 
 ➢ [The difference between Nodejs module.exports and exports, a simple technical explanation for 2022](https://404answernotfound.eu/blog/the-difference-between-nodejs-moduleexports-and-exports-a-simple-technical-explanation-for-2022)
 
