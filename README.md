@@ -76,7 +76,8 @@
 [The difference between `git pull` and `git fetch`](https://404answnotfound.hashnode.dev/the-difference-between-git-pull-and-git-fetch)  
 [Building a blog to share your #100daysofcode](https://404answnotfound.hashnode.dev/building-a-blog-to-share-your-100daysofcode)  
 
-## DEV.to articles (from latest to oldest)
+## DEV.to articles (from latest to oldest)  
+[How to become a Senior Software Engineer and beyond](https://dev.to/404answernotfound/how-to-become-a-senior-software-engineer-and-beyond-426j)  
 [You finished your Bootcamp. Now what?](https://dev.to/404answernotfound/you-finished-your-bootcamp-now-what-4963)  
 [Fake data makes for great programmers. A first timer approach to Mockaroo](https://dev.to/404answernotfound/fake-data-makes-for-great-programmers-a-first-timer-approach-to-mockaroo-m7b)  
 [The difference between `git pull` and `git fetch` - canonical on hashnode](https://dev.to/404answernotfound/git-pull-and-git-fetch-a-subtle-difference-1g45)  
