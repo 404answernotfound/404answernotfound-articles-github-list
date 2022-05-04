@@ -16,7 +16,9 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [How I built a NPM Package (and why you should too!)](https://404answernotfound.eu/blog/how-i-build-a-npm-package-and-why-you-should-too)
+---<br/>➢ [Fast prototyping RESTful API with json-server](https://404answernotfound.eu/blog/fast-prototyping-restful-api-with-jsonserver)
+
+➢ [How I built a NPM Package (and why you should too!)](https://404answernotfound.eu/blog/how-i-build-a-npm-package-and-why-you-should-too)
 
 ➢ [No arguments in Javascript Arrow Functions, why?!](https://404answernotfound.eu/blog/no-arguments-in-javascript-arrow-functions-why)
 
