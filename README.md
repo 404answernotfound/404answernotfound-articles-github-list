@@ -16,7 +16,9 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [Fast prototyping RESTful API with json-server](https://404answernotfound.eu/blog/fast-prototyping-restful-api-with-jsonserver)
+---<br/>➢ [React 18 is out! What's good about it?](https://404answernotfound.eu/blog/react-18-is-out-whats-good-about-it)
+
+➢ [Fast prototyping RESTful API with json-server](https://404answernotfound.eu/blog/fast-prototyping-restful-api-with-jsonserver)
 
 ➢ [How I built a NPM Package (and why you should too!)](https://404answernotfound.eu/blog/how-i-build-a-npm-package-and-why-you-should-too)
 
