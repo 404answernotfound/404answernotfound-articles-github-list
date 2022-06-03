@@ -16,7 +16,9 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [React 18 is out! What's good about it?](https://404answernotfound.eu/blog/react-18-is-out-whats-good-about-it)
+---<br/>➢ [React useEffect double rendering fix and why you should stop crying about it](https://404answernotfound.eu/blog/react-useeffect-double-rendering-fix-and-why-you-should-stop-crying-about-it)
+
+➢ [React 18 is out! What's good about it?](https://404answernotfound.eu/blog/react-18-is-out-whats-good-about-it)
 
 ➢ [Fast prototyping RESTful API with json-server](https://404answernotfound.eu/blog/fast-prototyping-restful-api-with-jsonserver)
 
