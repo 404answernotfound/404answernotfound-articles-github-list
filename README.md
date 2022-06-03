@@ -76,6 +76,12 @@
 
 ---
 
+## Medium articles (from latest to oldest)
+[React is double rendering your components and it’s good](https://medium.com/@404answernotfound/react-is-double-rendering-your-components-and-its-good-d3317aa1f848)  
+[A programmer’s boredom](https://medium.com/@404answernotfound/a-programmers-boredom-1759804eed40)  
+[What’s a Framework or library in Javascript?](https://medium.com/@404answernotfound/whats-a-framework-or-library-in-javascript-75146a50d12)  
+[What’s new with React 18?](https://medium.com/@404answernotfound/18-whats-new-with-react-18-a463484aa0c9)  
+
 ## Hashnode articles (from latest to oldest)
 [The difference between `git pull` and `git fetch`](https://404answnotfound.hashnode.dev/the-difference-between-git-pull-and-git-fetch)  
 [Building a blog to share your #100daysofcode](https://404answnotfound.hashnode.dev/building-a-blog-to-share-your-100daysofcode)  
