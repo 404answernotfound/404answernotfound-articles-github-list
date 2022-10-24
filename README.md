@@ -16,7 +16,9 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [Let's settle all the Promises, a better DX and higher readability](https://404answernotfound.eu/blog/lets-settle-all-the-promises-a-better-dx-and-higher-readability)
+---<br/>➢ [The Codemotion Experience, 2022 Edition](https://404answernotfound.eu/blog/the-codemotion-experience-2022-edition)
+
+➢ [Let's settle all the Promises, a better DX and higher readability](https://404answernotfound.eu/blog/lets-settle-all-the-promises-a-better-dx-and-higher-readability)
 
 ➢ [React useEffect double rendering fix and why you should stop crying about it](https://404answernotfound.eu/blog/react-useeffect-double-rendering-fix-and-why-you-should-stop-crying-about-it)
 
