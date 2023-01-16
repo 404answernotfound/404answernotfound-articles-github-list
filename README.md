@@ -16,7 +16,11 @@
 ## 🏠 [Homepage](404answernotfound.eu)
 
 ## Article List (from latest to oldest)
----<br/>➢ [The Codemotion Experience, 2022 Edition](https://404answernotfound.eu/blog/the-codemotion-experience-2022-edition)
+---<br/>➢ [Humanely AI, a hope](https://404answernotfound.eu/blog/humanely-ai-a-hope)
+
+➢ [Git forward and backward in tree history. It's not Klingon, it's a nice Bash oneliner](https://404answernotfound.eu/blog/git-forward-and-backward-in-tree-history-its-not-klingon-its-a-nice-bash-oneliner)
+
+➢ [The Codemotion Experience, 2022 Edition](https://404answernotfound.eu/blog/the-codemotion-experience-2022-edition)
 
 ➢ [Let's settle all the Promises, a better DX and higher readability](https://404answernotfound.eu/blog/lets-settle-all-the-promises-a-better-dx-and-higher-readability)
 
